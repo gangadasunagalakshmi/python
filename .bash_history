@@ -64,3 +64,10 @@ cd car-number-plate-detection/
 python3 app.py
 vi app.py
 ls
+git init
+git add
+git branch
+git add .
+git branch
+git commit -m
+git commit -m "frgryghth"
